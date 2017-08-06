@@ -17,6 +17,9 @@ h1 {
 	background-color: white;
 	top: 200px;
 	left: 420px;
+	-webkit-box-shadow: 3px 32px 177px -31px rgba(0,0,0,0.73);
+    -moz-box-shadow: 3px 32px 177px -31px rgba(0,0,0,0.73);
+    box-shadow: 3px 32px 177px -31px rgba(0,0,0,0.73);
 }	
 
 li {
