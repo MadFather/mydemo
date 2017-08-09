@@ -72,11 +72,11 @@ span {
 	border: 1px solid grey;
 }
 
-.all {
+.click {
 	border: none;
 }
 
-.all:hover {
+.click:hover {
     border: 1px solid grey;
 }
 
@@ -89,7 +89,7 @@ input[type="checkbox"] {
     display:none;
 }
 
-.buy {
+.task {
 	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="10 -18 120 140"><circle cx="50" cy="50" r="50" fill="none" stroke="#ededed" stroke-width="3"/></svg>') no-repeat;
 }
 	
