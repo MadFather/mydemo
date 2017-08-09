@@ -72,11 +72,11 @@ span {
 	border: 1px solid grey;
 }
 
-.click {
+.liststate {
 	border: none;
 }
 
-.click:hover {
+.liststate:hover {
     border: 1px solid grey;
 }
 
